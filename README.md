@@ -1,5 +1,5 @@
 ## hey, welcome!! :satisfied: :wave: :sparkles: :notes:
-this is lily's github. you can find most of my projects here. 
+this is Lily's github. you can find most of my projects here :heartpulse:
 <!--
 **llchn/llchn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
