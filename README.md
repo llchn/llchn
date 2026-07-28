@@ -1,7 +1,7 @@
 ## hey, welcome!! :satisfied: :wave: :sparkles: :notes:
 this is Lily's github. you can find most of my projects here :heartpulse:
 
-<img src="https://media1.tenor.com/m/txmXtZgMQ-IAAAAC/dance-anime.gif" width="800" alt="fujiwara">
+<img src="https://media1.tenor.com/m/txmXtZgMQ-IAAAAC/dance-anime.gif" width="850" alt="fujiwara">
 <!--
 **llchn/llchn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
